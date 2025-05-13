@@ -1,0 +1,15 @@
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.sourcelink.json
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+E:\myGithub\DotNetToutrial\DotNetTutorialDoc\DesignPattern\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll
