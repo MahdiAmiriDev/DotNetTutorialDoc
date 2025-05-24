@@ -53,7 +53,9 @@
 //------------ Prototype------------------------------------------------------------------------------------------------------------
 
 
-var kordanGarden = new Prototype("kordan garden");
+//with clone
+
+var kordanGarden = new Prototype(new List<Flower>() { new Flower("abbasi") },"kordan garden");
 
 Console.WriteLine(kordanGarden.GardenName);
 
@@ -62,3 +64,16 @@ var shahriarGarden =  (Prototype)kordanGarden.Clone();
 shahriarGarden.GardenName = "bagh amir arsalan";
 
 Console.WriteLine( shahriarGarden.GardenName);
+
+
+
+//with ctor
+var tehranGarden = new Prototype(kordanGarden.Flowers,kordanGarden.GardenName);
+
+tehranGarden.Flowers[0].Name = "zanbagh";
+tehranGarden.GardenName = "tehran";
+
+Console.WriteLine(tehranGarden.Flowers[0].Name);
+Console.WriteLine(tehranGarden.GardenName);
+
+
