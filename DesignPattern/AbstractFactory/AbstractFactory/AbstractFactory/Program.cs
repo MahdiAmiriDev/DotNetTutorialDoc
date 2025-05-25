@@ -55,25 +55,76 @@
 
 //with clone
 
-var kordanGarden = new Prototype(new List<Flower>() { new Flower("abbasi") },"kordan garden");
+//var kordanGarden = new Prototype(new List<Flower>() { new Flower("abbasi") },"kordan garden");
 
-Console.WriteLine(kordanGarden.GardenName);
+//Console.WriteLine(kordanGarden.GardenName);
 
-var shahriarGarden =  (Prototype)kordanGarden.Clone();
+//var shahriarGarden =  (Prototype)kordanGarden.Clone();
 
-shahriarGarden.GardenName = "bagh amir arsalan";
+//shahriarGarden.GardenName = "bagh amir arsalan";
 
-Console.WriteLine( shahriarGarden.GardenName);
+//Console.WriteLine( shahriarGarden.GardenName);
 
 
 
-//with ctor
-var tehranGarden = new Prototype(kordanGarden.Flowers,kordanGarden.GardenName);
+////with ctor
+//var tehranGarden = new Prototype(kordanGarden.Flowers,kordanGarden.GardenName);
 
-tehranGarden.Flowers[0].Name = "zanbagh";
-tehranGarden.GardenName = "tehran";
+//tehranGarden.Flowers[0].Name = "zanbagh";
+//tehranGarden.GardenName = "tehran";
 
-Console.WriteLine(tehranGarden.Flowers[0].Name);
-Console.WriteLine(tehranGarden.GardenName);
+//Console.WriteLine(tehranGarden.Flowers[0].Name);
+//Console.WriteLine(tehranGarden.GardenName);
+
+
+//var xmlGarden =  tehranGarden.DeepCopyXml();
+
+//if (xmlGarden != null)
+//{
+
+//    xmlGarden.Flowers.Add(new Flower("xml"));
+//    xmlGarden.GardenName = "xml";
+//    xmlGarden.Flowers[0].Name = "xml flower";
+//    Console.WriteLine(xmlGarden.GardenName);
+//    Console.WriteLine(xmlGarden.Flowers[0].Name);
+//}
+
+//Console.WriteLine(tehranGarden.Flowers[0].Name);
+//Console.WriteLine(tehranGarden.GardenName);
+
+//var jsonGarden = await xmlGarden.DeepCopyJsonAsync();
+
+//if (jsonGarden != null)
+//{
+
+//    jsonGarden.Flowers.Add(new Flower("Json"));
+//    jsonGarden.GardenName = "json";
+//    jsonGarden.Flowers[0].Name = "json flower";
+//    Console.WriteLine(jsonGarden.GardenName);
+//    Console.WriteLine(jsonGarden.Flowers[0].Name);
+//}
+
+//Console.WriteLine(tehranGarden.Flowers[0].Name);
+//Console.WriteLine(tehranGarden.GardenName);
+
+//Console.WriteLine(xmlGarden.GardenName);
+//Console.WriteLine(xmlGarden.Flowers[0].Name);
+
+//Console.WriteLine(jsonGarden.GardenName);
+//Console.WriteLine(jsonGarden.Flowers[0].Name);
+
+
+
+
+
+
+
+
+
+
+
+
+//------------ Singleton ------------------------------------------------------------------------------------------------------------
+
 
 

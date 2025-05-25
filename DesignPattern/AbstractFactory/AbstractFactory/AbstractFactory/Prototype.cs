@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace AbstractFactory
 {
+    [Serializable]
     public class Prototype : ICloneable
     {
         public string GardenName { get; set; }
@@ -45,6 +48,11 @@ namespace AbstractFactory
         public Flower(string name)
         {
             Name = name;
+        }
+
+        public Flower()
+        {
+            
         }
 
         public object Clone()
@@ -95,6 +103,35 @@ namespace AbstractFactory
             {
                 Flowers = this.Flowers.Select(f => (Flower)f.Clone()).ToList()
             };
+        }
+    }
+
+    public static class ExtensionMethod
+    {
+        public static async Task<T?> DeepCopyJsonAsync<T> (this T self)
+        {
+            using var ms = new MemoryStream ();
+
+            await JsonSerializer.SerializeAsync<T>(ms, self);
+
+            ms.Position = 0;
+
+            return await JsonSerializer.DeserializeAsync<T>(ms);
+
+        }
+
+        public static T? DeepCopyXml<T>(this T self)
+        {
+            using var ms = new MemoryStream();
+
+            var xml = new XmlSerializer(typeof(T));
+
+            xml.Serialize(ms,self);
+
+            ms.Position = 0;
+
+            return (T)xml.Deserialize(ms);
+
         }
     }
 
