@@ -128,6 +128,14 @@
 
 
 
+var mars = new Planet("mars",5);
+var mericury = new Mars();
+var mericury2 = mericury.GetInstance();
+
+
+LoggerProvider.LogError("log error");
+
+LoggerProvider.LogInfo("log info");
 
 
 

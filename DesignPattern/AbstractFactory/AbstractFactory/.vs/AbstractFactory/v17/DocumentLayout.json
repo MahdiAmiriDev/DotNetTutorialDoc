@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Projects\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|e:\\projects\\dotnettutorialdoc\\designpattern\\abstractfactory\\abstractfactory\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|e:\\projects\\dotnettutorialdoc\\designpattern\\abstractfactory\\abstractfactory\\abstractfactory\\adapterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\adapterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\Program.cs",
-              "RelativeToolTip": "AbstractFactory\\Program.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T17:37:27.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdapterPattern.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\AdapterPattern.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\AdapterPattern.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\AdapterPattern.cs",
-              "RelativeToolTip": "AbstractFactory\\AdapterPattern.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAewAsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T17:26:02.513Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
