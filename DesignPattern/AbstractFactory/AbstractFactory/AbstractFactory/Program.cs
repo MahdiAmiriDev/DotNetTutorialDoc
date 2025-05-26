@@ -128,3 +128,63 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//---------------------- Adapter ------------------------------------------------------------------------------------
+
+
+
+//ترجمه می شود به چیزی که ما می خواهیم
+IPaymentGateway GetGateway(string name)
+{
+    if (name == "tejarat")
+        return new TejaratAdapter(new TejaratPayment());
+
+    return new PasargardAdapter(new PasargardPayment());
+}
+
+
+
+var gateway = GetGateway("tejarat");
+
+gateway.ProcessPayment(2323);
+
+
+
+var pasargardGateway = GetGateway("pasargard");
+
+pasargardGateway.ProcessPayment(6743);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
