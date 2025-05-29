@@ -128,14 +128,14 @@
 
 
 
-var mars = new Planet("mars",5);
-var mericury = new Mars();
-var mericury2 = mericury.GetInstance();
+//var mars = new Planet("mars", 5);
+//var mericury = new Mars();
+//var mericury2 = mericury.GetInstance();
 
 
-LoggerProvider.LogError("log error");
+//LoggerProvider.LogError("log error");
 
-LoggerProvider.LogInfo("log info");
+//LoggerProvider.LogInfo("log info");
 
 
 
@@ -156,36 +156,93 @@ LoggerProvider.LogInfo("log info");
 
 
 //ترجمه می شود به چیزی که ما می خواهیم
-IPaymentGateway GetGateway(string name)
-{
-    if (name == "tejarat")
-        return new TejaratAdapter(new TejaratPayment());
+//IPaymentGateway GetGateway(string name)
+//{
+//    if (name == "tejarat")
+//        return new TejaratAdapter(new TejaratPayment());
 
-    return new PasargardAdapter(new PasargardPayment());
-}
-
-
-
-var gateway = GetGateway("tejarat");
-
-gateway.ProcessPayment(2323);
+//    return new PasargardAdapter(new PasargardPayment());
+//}
 
 
 
-var pasargardGateway = GetGateway("pasargard");
+//var gateway = GetGateway("tejarat");
 
-pasargardGateway.ProcessPayment(6743);
+//gateway.ProcessPayment(2323);
 
 
+
+//var pasargardGateway = GetGateway("pasargard");
+
+//pasargardGateway.ProcessPayment(6743);
 
 
 
 
 
+//------------------------- Bridge --------------------------------------------
 
 
 
 
+//var callOfDuty = new ShootingGame(GetPlatform(PlatformType.Pc));
+
+//callOfDuty.Play();
+
+
+//IPlatform GetPlatform(PlatformType platformType)
+//{
+//    switch (platformType)
+//    {
+//        case PlatformType.Pc:
+//            return new PcPlatform();
+//            break;
+//        case PlatformType.Console:
+//            return new ConsolePlatform();
+//            break;
+//        case PlatformType.Mobile:
+//            return new MobilePlatform();
+//            break;
+//        default:
+//            throw new ArgumentException("unknow paltform");
+//    }
+
+//}
+
+
+
+
+
+
+
+//------------------------- Composite --------------------------------------------------------------------------------
+
+
+//مدیرعامل
+var ceo = new Manager("karim", "ceo");
+
+//head of markting
+var cmo = new Manager("ahmad", "head of markting");
+
+//head of tech
+var cto = new Manager("hamid", "head of tech");
+
+var developer = new Developer("mahdi", "developer-1");
+var developer2 = new Developer("bahram", "developer-2");
+
+var contentWriter = new Developer("mahsa", "writer1");
+var contentWriter2 = new Developer("masomeh", "writer2");
+
+cto.AddEmployee(developer);
+cto.AddEmployee(developer2);
+
+cmo.AddEmployee(contentWriter);
+cmo.AddEmployee(contentWriter2);
+
+ceo.AddEmployee(cmo);
+ceo.AddEmployee(cto);
+
+ceo.Display();
 
 
 

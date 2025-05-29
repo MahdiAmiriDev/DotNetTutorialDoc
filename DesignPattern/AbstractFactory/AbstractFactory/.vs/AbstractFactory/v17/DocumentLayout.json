@@ -1,12 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\myGithub\\DotNetToutrial\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|e:\\mygithub\\dotnettoutrial\\dotnettutorialdoc\\designpattern\\abstractfactory\\abstractfactory\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|e:\\mygithub\\dotnettoutrial\\dotnettutorialdoc\\designpattern\\abstractfactory\\abstractfactory\\abstractfactory\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914FB185-66B7-45CB-AB02-32FF4A64F57F}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetToutrial\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "E:\\myGithub\\DotNetToutrial\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAAOYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:11:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetToutrial\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\Composite.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Composite.cs",
+              "ToolTip": "E:\\myGithub\\DotNetToutrial\\DotNetTutorialDoc\\DesignPattern\\AbstractFactory\\AbstractFactory\\AbstractFactory\\Composite.cs",
+              "RelativeToolTip": "AbstractFactory\\Composite.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:45:40.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
