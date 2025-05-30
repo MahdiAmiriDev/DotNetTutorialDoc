@@ -1,4 +1,5 @@
 ﻿using AbstractFactory;
+using System.Diagnostics.Contracts;
 
 
 //--------------- Abstract Factory -----------
@@ -218,31 +219,43 @@
 //------------------------- Composite --------------------------------------------------------------------------------
 
 
-//مدیرعامل
-var ceo = new Manager("karim", "ceo");
+////مدیرعامل
+//var ceo = new Manager("karim", "ceo",100);
 
-//head of markting
-var cmo = new Manager("ahmad", "head of markting");
+////head of markting
+//var cmo = new Manager("ahmad", "head of markting", 100);
 
-//head of tech
-var cto = new Manager("hamid", "head of tech");
+////head of tech
+//var cto = new Manager("hamid", "head of tech", 100);
 
-var developer = new Developer("mahdi", "developer-1");
-var developer2 = new Developer("bahram", "developer-2");
+//var developer = new Developer("mahdi", "developer-1", 100);
+//var developer2 = new Developer("bahram", "developer-2", 100);
 
-var contentWriter = new Developer("mahsa", "writer1");
-var contentWriter2 = new Developer("masomeh", "writer2");
+//var contentWriter = new Developer("mahsa", "writer1", 100);
+//var contentWriter2 = new Developer("masomeh", "writer2", 100);
 
-cto.AddEmployee(developer);
-cto.AddEmployee(developer2);
+//cto.AddEmployee(developer);
+//cto.AddEmployee(developer2);
 
-cmo.AddEmployee(contentWriter);
-cmo.AddEmployee(contentWriter2);
+//cmo.AddEmployee(contentWriter);
+//cmo.AddEmployee(contentWriter2);
 
-ceo.AddEmployee(cmo);
-ceo.AddEmployee(cto);
+//ceo.AddEmployee(cmo);
+//ceo.AddEmployee(cto);
 
-ceo.Display();
+//ceo.Display();
+
+//var totalSalaery = ManagerBuilder.GetInstance()
+//    .AddManager(ceo)
+//    .AddManager(cto)
+//    .AddManager(cmo)
+//    .AddTeamMember("head of tech", developer)
+//    .AddTeamMember("head of tech", developer2)
+//    .AddTeamMember("head of markting", contentWriter)
+//    .AddTeamMember("head of markting", contentWriter2)
+//    .GetTotalSalary();
+
+//Console.WriteLine(totalSalaery);
 
 
 
@@ -252,4 +265,25 @@ ceo.Display();
 
 
 
+
+//------------------------- Decorator --------------------------------------------------------------------------------
+
+
+var car1 = new BasicCar(200, "saipa shahin");
+
+ShowCarInfo(car1);
+
+var sportDecorator = new SportDecorator(car1);
+
+var luxuryDecorator = new LuxuryDecorator(car1);
+
+ShowCarInfo(car1);
+ShowCarInfo(sportDecorator);
+ShowCarInfo(luxuryDecorator);
+
+
+void ShowCarInfo(ICar car1)
+{
+    Console.WriteLine($"my car name is {car1.GetDescription} and my car cost is {car1.GetCost()}");
+}
 
