@@ -269,21 +269,34 @@ using System.Diagnostics.Contracts;
 //------------------------- Decorator --------------------------------------------------------------------------------
 
 
-var car1 = new BasicCar(200, "saipa shahin");
+//var car1 = new BasicCar(200, "saipa shahin");
 
-ShowCarInfo(car1);
+//ShowCarInfo(car1);
 
-var sportDecorator = new SportDecorator(car1);
+//var sportDecorator = new SportDecorator(car1);
 
-var luxuryDecorator = new LuxuryDecorator(car1);
+//var luxuryDecorator = new LuxuryDecorator(car1);
 
-ShowCarInfo(car1);
-ShowCarInfo(sportDecorator);
-ShowCarInfo(luxuryDecorator);
+//ShowCarInfo(car1);
+//ShowCarInfo(sportDecorator);
+//ShowCarInfo(luxuryDecorator);
 
 
-void ShowCarInfo(ICar car1)
-{
-    Console.WriteLine($"my car name is {car1.GetDescription} and my car cost is {car1.GetCost()}");
-}
+//void ShowCarInfo(ICar car1)
+//{
+//    Console.WriteLine($"my car name is {car1.GetDescription()} and my car cost is {car1.GetCost()}");
+//}
+
+
+
+//Sample 2
+var request = new WebRequest("hello world", true);
+
+IBackendRequestHandler baseBackend = new BaseBackend();
+
+baseBackend = new LoggingRequestDecorator(baseBackend);
+
+baseBackend = new AuthRequestDecorator(baseBackend);
+
+baseBackend.Handle(request);
 
