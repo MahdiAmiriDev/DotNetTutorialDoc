@@ -290,13 +290,23 @@ using System.Diagnostics.Contracts;
 
 
 //Sample 2
-var request = new WebRequest("hello world", true);
 
-IBackendRequestHandler baseBackend = new BaseBackend();
+//var request = new WebRequest("hello world", true);
 
-baseBackend = new LoggingRequestDecorator(baseBackend);
+//IBackendRequestHandler baseBackend = new BaseBackend();
 
-baseBackend = new AuthRequestDecorator(baseBackend);
+//baseBackend = new LoggingRequestDecorator(baseBackend);
 
-baseBackend.Handle(request);
+//baseBackend = new AuthRequestDecorator(baseBackend);
 
+//baseBackend.Handle(request);
+
+
+
+
+
+
+
+
+
+//------------------------- Facade --------------------------------------------------------------------------------
