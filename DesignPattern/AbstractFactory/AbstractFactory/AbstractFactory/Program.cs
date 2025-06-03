@@ -290,13 +290,38 @@ using System.Diagnostics.Contracts;
 
 
 //Sample 2
-var request = new WebRequest("hello world", true);
+//var request = new WebRequest("hello world", true);
 
-IBackendRequestHandler baseBackend = new BaseBackend();
+//IBackendRequestHandler baseBackend = new BaseBackend();
 
-baseBackend = new LoggingRequestDecorator(baseBackend);
+//baseBackend = new LoggingRequestDecorator(baseBackend);
 
-baseBackend = new AuthRequestDecorator(baseBackend);
+//baseBackend = new AuthRequestDecorator(baseBackend);
 
-baseBackend.Handle(request);
+//baseBackend.Handle(request);
+
+
+
+
+//------------------------- Decorator --------------------------------------------------------------------------------
+
+Order order = new()
+{
+    OrderId = "235",
+    IsValidated = false,
+    IsPaymentProcessed = false,
+    IsInStock = true,
+};
+
+OrderHandler validationHandler = new ValidationHandler();
+
+OrderHandler inventoryHandler = new InventoryHandler();
+
+OrderHandler paymentHandler = new PaymentHandler();
+
+validationHandler.SetNextHandler(inventoryHandler);
+inventoryHandler.SetNextHandler(paymentHandler);
+
+validationHandler.HandleOrder(order);
+validationHandler.HandleOrder(order);
 
