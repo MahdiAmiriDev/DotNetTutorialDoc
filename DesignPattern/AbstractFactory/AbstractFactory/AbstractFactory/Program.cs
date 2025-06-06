@@ -305,23 +305,175 @@ using System.Diagnostics.Contracts;
 
 //------------------------- Decorator --------------------------------------------------------------------------------
 
-Order order = new()
-{
-    OrderId = "235",
-    IsValidated = false,
-    IsPaymentProcessed = false,
-    IsInStock = true,
-};
+//Order order = new()
+//{
+//    OrderId = "235",
+//    IsValidated = false,
+//    IsPaymentProcessed = false,
+//    IsInStock = true,
+//};
 
-OrderHandler validationHandler = new ValidationHandler();
+//OrderHandler validationHandler = new ValidationHandler();
 
-OrderHandler inventoryHandler = new InventoryHandler();
+//OrderHandler inventoryHandler = new InventoryHandler();
 
-OrderHandler paymentHandler = new PaymentHandler();
+//OrderHandler paymentHandler = new PaymentHandler();
 
-validationHandler.SetNextHandler(inventoryHandler);
-inventoryHandler.SetNextHandler(paymentHandler);
+//validationHandler.SetNextHandler(inventoryHandler);
+//inventoryHandler.SetNextHandler(paymentHandler);
 
-validationHandler.HandleOrder(order);
-validationHandler.HandleOrder(order);
+//validationHandler.HandleOrder(order);
+//validationHandler.HandleOrder(order);
 
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------- Command --------------------------------------------------------------------------------
+
+//var textEditor = new TextEditor();
+
+//var commandManager = new CommandManager();
+
+//commandManager.Execute(new AddTextCommand(textEditor,"welcome"));
+////commandManager.Execute(new AddTextCommand(textEditor,"to this "));
+////commandManager.Execute(new AddTextCommand(textEditor,"course "));
+//commandManager.Execute(new AddTextCommand(textEditor,"thanks !"));
+//commandManager.Execute(new RemoveTextCommand(textEditor,"thanks !"));
+
+//textEditor.WriteText();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------- Iterator --------------------------------------------------------------------------------
+
+
+
+
+//var bookCollection = new BookCollection();
+
+//bookCollection.AddBook(new Book("num-a", "author-a"));
+//bookCollection.AddBook(new Book("num-b", "author-b"));
+
+//var iterator = bookCollection.GetIterator();
+
+//var book = iterator.Next();
+
+//Console.WriteLine(book.Author + " has next {0}",iterator.HasNext());
+// book = iterator.Next();
+//Console.WriteLine(book.Author + " has next {0}",iterator.HasNext());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------- Mediator --------------------------------------------------------------------------------
+
+
+
+//var chatRoom = new ChatRoom();
+
+//var user1 = new ChatRoomUser("user1");
+//var user2 = new ChatRoomUser("user2");
+//var user3 = new ChatRoomUser("user3");
+
+//chatRoom.RegisterUser(user1);
+//chatRoom.RegisterUser(user2);
+//chatRoom.RegisterUser(user3);
+
+//user1.SendMessage("hello this is user 1");
+
+//Console.ReadKey();
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------- Memento --------------------------------------------------------------------------------
+
+
+//var bankAccountService = new BackAccountService();
+
+//var state1 = bankAccountService.Deposit(200);
+//Console.WriteLine(state1.Balance);
+//var state2 = bankAccountService.Deposit(100);
+//Console.WriteLine(state2.Balance);
+//var state3 = bankAccountService.Deposit(50);
+//Console.WriteLine(state3.Balance);
+
+//bankAccountService.Restore(state2);
+
+//Console.WriteLine(bankAccountService.GetBalance());
+
+//Console.ReadKey();
+
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------- Observer --------------------------------------------------------------------------------
+
+var weatherStation = new WeatherStation();
+
+var mobileScreen = new WeatherScreen("mobile app");
+
+var cityCenterScreen = new WeatherScreen("city center");
+
+weatherStation.RegisterObserver(mobileScreen);
+weatherStation.RegisterObserver(cityCenterScreen);
+
+await weatherStation.ProcessWeather(23);
+await Task.Delay(TimeSpan.FromSeconds(2));
+await weatherStation.ProcessWeather(33);
