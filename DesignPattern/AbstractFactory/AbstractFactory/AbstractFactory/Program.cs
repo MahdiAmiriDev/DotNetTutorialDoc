@@ -465,15 +465,31 @@ using System.Diagnostics.Contracts;
 
 //------------------------- Observer --------------------------------------------------------------------------------
 
-var weatherStation = new WeatherStation();
+//var weatherStation = new WeatherStation();
 
-var mobileScreen = new WeatherScreen("mobile app");
+//var mobileScreen = new WeatherScreen("mobile app");
 
-var cityCenterScreen = new WeatherScreen("city center");
+//var cityCenterScreen = new WeatherScreen("city center");
 
-weatherStation.RegisterObserver(mobileScreen);
-weatherStation.RegisterObserver(cityCenterScreen);
+//weatherStation.RegisterObserver(mobileScreen);
+//weatherStation.RegisterObserver(cityCenterScreen);
 
-await weatherStation.ProcessWeather(23);
-await Task.Delay(TimeSpan.FromSeconds(2));
-await weatherStation.ProcessWeather(33);
+//await weatherStation.ProcessWeather(23);
+//await Task.Delay(TimeSpan.FromSeconds(2));
+//await weatherStation.ProcessWeather(33);
+
+
+
+
+
+
+
+
+
+//------------------------- State --------------------------------------------------------------------------------
+
+var audioPlayer = new AudioPlayer(new PlayState());
+
+audioPlayer.Play();
+audioPlayer.Pause();
+audioPlayer.Stop();
