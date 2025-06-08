@@ -488,8 +488,27 @@ using System.Diagnostics.Contracts;
 
 //------------------------- State --------------------------------------------------------------------------------
 
-var audioPlayer = new AudioPlayer(new PlayState());
+//var audioPlayer = new AudioPlayer(new PlayState());
 
-audioPlayer.Play();
-audioPlayer.Pause();
-audioPlayer.Stop();
+//audioPlayer.Play();
+//audioPlayer.Pause();
+//audioPlayer.Stop();
+
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------- Strategy --------------------------------------------------------------------------------
+
+var healthContext = new HealthContext();
+
+healthContext.SetStrategy(new MentalCare());
+healthContext.ExecuteStrategy();
