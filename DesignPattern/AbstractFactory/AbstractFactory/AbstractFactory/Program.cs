@@ -508,7 +508,39 @@ using System.Diagnostics.Contracts;
 
 //------------------------- Strategy --------------------------------------------------------------------------------
 
-var healthContext = new HealthContext();
 
-healthContext.SetStrategy(new MentalCare());
-healthContext.ExecuteStrategy();
+
+
+
+//var healthContext = new HealthContext();
+
+//healthContext.SetStrategy(new MentalCare());
+//healthContext.ExecuteStrategy();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------- TemplateMethod --------------------------------------------------------------------------------
+
+
+var document = new InvoiceProcessor();
+
+document.ProcessFile("D:/folder1/invoice.pdf");
+
+Console.WriteLine();
+
+var document2 = new PdfReportProcessor();
+
+document2.ProcessFile("D:/folder2/factor.pdf");
+
+Console.ReadKey();
