@@ -533,14 +533,34 @@ using System.Diagnostics.Contracts;
 //------------------------- TemplateMethod --------------------------------------------------------------------------------
 
 
-var document = new InvoiceProcessor();
+//var document = new InvoiceProcessor();
 
-document.ProcessFile("D:/folder1/invoice.pdf");
+//document.ProcessFile("D:/folder1/invoice.pdf");
 
-Console.WriteLine();
+//Console.WriteLine();
 
-var document2 = new PdfReportProcessor();
+//var document2 = new PdfReportProcessor();
 
-document2.ProcessFile("D:/folder2/factor.pdf");
+//document2.ProcessFile("D:/folder2/factor.pdf");
+
+//Console.ReadKey();
+
+
+
+
+
+
+
+
+
+//------------ Visitor ------------------------------------------------------------------------------------------------------------
+
+var rectangle = new Rectangle() { Width = 12, Height = 8 };
+
+var circle = new Circle() { Radius = 5 };
+
+rectangle.AcceptVisitor(new AreaCalculator());
+
+circle.AcceptVisitor(new AreaCalculator());
 
 Console.ReadKey();
