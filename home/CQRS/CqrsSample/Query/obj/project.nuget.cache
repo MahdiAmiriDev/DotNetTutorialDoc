@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1lhZ5ZeP2M=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\Query\\Query.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
