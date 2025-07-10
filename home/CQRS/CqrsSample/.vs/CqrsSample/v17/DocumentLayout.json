@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\",
+  "WorkspaceRootPath": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CA8358A-F970-482D-91F0-255ABFF9B9C4}|Query\\Query.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\query\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA8358A-F970-482D-91F0-255ABFF9B9C4}|Query\\Query.csproj|solutionrelative:query\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA8358A-F970-482D-91F0-255ABFF9B9C4}|Query\\Query.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\query\\products\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA8358A-F970-482D-91F0-255ABFF9B9C4}|Query\\Query.csproj|solutionrelative:query\\products\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA8358A-F970-482D-91F0-255ABFF9B9C4}|Query\\Query.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\query\\products\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA8358A-F970-482D-91F0-255ABFF9B9C4}|Query\\Query.csproj|solutionrelative:query\\products\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\cqrssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\cqrssample\\product\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\mygithub\\dotnettutorialdoc\\home\\cqrs\\cqrssample\\cqrssample\\product\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\product\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\cqrssample\\product\\edit\\editproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\product\\edit\\editproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\mygithub\\dotnettutorialdoc\\home\\cqrs\\cqrssample\\cqrssample\\product\\eventhandler\\createproducteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\product\\eventhandler\\createproducteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB7C6454-11CA-4C0E-8A14-F61C14604F73}|DataLayer\\DataLayer.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\datalayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB7C6454-11CA-4C0E-8A14-F61C14604F73}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\mygithub\\dotnettutorialdoc\\home\\cqrs\\cqrssample\\cqrssample\\share\\commandvalidatorbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\share\\commandvalidatorbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\projects\\dotnettutorialdoc\\cqrs\\cqrssample\\cqrssample\\product\\edit\\editproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\product\\edit\\editproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\mygithub\\dotnettutorialdoc\\home\\cqrs\\cqrssample\\cqrssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\mygithub\\dotnettutorialdoc\\home\\cqrs\\cqrssample\\cqrssample\\product\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\product\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\mygithub\\dotnettutorialdoc\\home\\cqrs\\cqrssample\\cqrssample\\share\\invalidcommandexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\share\\invalidcommandexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|e:\\mygithub\\dotnettutorialdoc\\home\\cqrs\\cqrssample\\cqrssample\\product\\create\\createproductcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3142CF6-387E-4080-A99A-BD4D840E3DF5}|CqrsSample\\CqrsSample.csproj|solutionrelative:cqrssample\\product\\create\\createproductcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +38,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 18,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetProductByIdQueryHandler.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
-              "RelativeToolTip": "Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T20:00:34.036Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\Query\\Products\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Query\\Products\\DTOs\\ProductDto.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\Query\\Products\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "Query\\Products\\DTOs\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:01:37.745Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetProductByIdQuery.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\Query\\Products\\GetById\\GetProductByIdQuery.cs",
-              "RelativeDocumentMoniker": "Query\\Products\\GetById\\GetProductByIdQuery.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\Query\\Products\\GetById\\GetProductByIdQuery.cs",
-              "RelativeToolTip": "Query\\Products\\GetById\\GetProductByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:00:38.782Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateProductCommandHandler.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
-              "RelativeToolTip": "CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:50:10.388Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Program.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Program.cs",
               "RelativeDocumentMoniker": "CqrsSample\\Program.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Program.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Program.cs",
               "RelativeToolTip": "CqrsSample\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:26:49.784Z",
+              "WhenOpened": "2025-07-10T08:08:24.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\DataLayer\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Product.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\DataLayer\\Entities\\Product.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CreateProductEventHandler.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\EventHandler\\CreateProductEventHandler.cs",
+              "RelativeDocumentMoniker": "CqrsSample\\Product\\EventHandler\\CreateProductEventHandler.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\EventHandler\\CreateProductEventHandler.cs",
+              "RelativeToolTip": "CqrsSample\\Product\\EventHandler\\CreateProductEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:24:46.496Z",
+              "WhenOpened": "2025-07-10T11:27:40.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EditProductHandler.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Product\\Edit\\EditProductHandler.cs",
-              "RelativeDocumentMoniker": "CqrsSample\\Product\\Edit\\EditProductHandler.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Product\\Edit\\EditProductHandler.cs",
-              "RelativeToolTip": "CqrsSample\\Product\\Edit\\EditProductHandler.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAlwAwAAAAPAAAA",
+              "Title": "InvalidCommandException.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Share\\InvalidCommandException.cs",
+              "RelativeDocumentMoniker": "CqrsSample\\Share\\InvalidCommandException.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Share\\InvalidCommandException.cs",
+              "RelativeToolTip": "CqrsSample\\Share\\InvalidCommandException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:23:29.751Z",
+              "WhenOpened": "2025-07-10T09:04:31.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EditProductCommand.cs",
-              "DocumentMoniker": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Product\\Edit\\EditProductCommand.cs",
-              "RelativeDocumentMoniker": "CqrsSample\\Product\\Edit\\EditProductCommand.cs",
-              "ToolTip": "E:\\Projects\\DotNetTutorialDoc\\CQRS\\CqrsSample\\CqrsSample\\Product\\Edit\\EditProductCommand.cs",
-              "RelativeToolTip": "CqrsSample\\Product\\Edit\\EditProductCommand.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "DocumentIndex": 2,
+              "Title": "CommandValidatorBehavior.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Share\\CommandValidatorBehavior.cs",
+              "RelativeDocumentMoniker": "CqrsSample\\Share\\CommandValidatorBehavior.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Share\\CommandValidatorBehavior.cs",
+              "RelativeToolTip": "CqrsSample\\Share\\CommandValidatorBehavior.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:23:09.41Z",
+              "WhenOpened": "2025-07-10T08:50:02.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "CqrsSample\\Product\\Create\\CreateProductCommandHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:00:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "CqrsSample\\Product\\Create\\CreateProductCommand.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommand.cs",
+              "RelativeToolTip": "CqrsSample\\Product\\Create\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:00:52.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductCommandValidation.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommandValidation.cs",
+              "RelativeDocumentMoniker": "CqrsSample\\Product\\Create\\CreateProductCommandValidation.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\home\\CQRS\\CqrsSample\\CqrsSample\\Product\\Create\\CreateProductCommandValidation.cs",
+              "RelativeToolTip": "CqrsSample\\Product\\Create\\CreateProductCommandValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:58:05.65Z",
               "EditorCaption": ""
             }
           ]

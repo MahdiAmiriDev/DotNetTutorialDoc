@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CqrsSample
-build_property.ProjectDir = E:\Projects\DotNetTutorialDoc\CQRS\CqrsSample\CqrsSample\
+build_property.ProjectDir = E:\myGithub\DotNetTutorialDoc\home\CQRS\CqrsSample\CqrsSample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

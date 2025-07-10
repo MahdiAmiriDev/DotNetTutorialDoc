@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CqrsSample.Product.Create
 {
-    public class CreateProductCommand: IRequest
+    public class CreateProductCommand : IRequest, INotification
     {
 
         public CreateProductCommand(string title, int price)

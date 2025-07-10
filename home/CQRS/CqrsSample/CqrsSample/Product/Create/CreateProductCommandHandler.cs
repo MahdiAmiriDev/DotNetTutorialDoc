@@ -1,4 +1,6 @@
-﻿using MediatR;
+﻿using System.Text;
+using MediatR;
+using Microsoft.Extensions.DependencyInjection;
 
 
 namespace CqrsSample.Product.Create
@@ -10,16 +12,42 @@ namespace CqrsSample.Product.Create
 
         }
 
-        public Task<Unit> Handle(CreateProductCommand request, CancellationToken cancellationToken)
+        public async Task<Unit> Handle(CreateProductCommand request, CancellationToken cancellationToken)
         {
-            AddProduct(new DataLayer.Entities.Product()
+            //استفاده از کتابخانه fluentValidation
+            //var validator = new CreateProductCommandValidation();
+
+            //var validationResult = validator.Validate(request);
+
+            //if (!validationResult.IsValid)
+            //{
+            //    var stringBuilder = new StringBuilder();
+
+            //    foreach (var item in validationResult.Errors)
+            //    {
+            //        stringBuilder.Append(item.ErrorMessage);
+            //    }
+
+            //    throw new Exception($"model is not valid the error is {stringBuilder}");
+            //}
+
+            var product = new DataLayer.Entities.Product()
             {
                 Id = 1,
                 Price = request.Price,
                 Title = request.Title,
-            });
+            };
 
-            return Unit.Task;
+            AddProduct(product);
+
+            var services = new ServiceCollection();
+            services.AddMediatR(typeof(CreateProductCommand).Assembly);
+            var provider = services.BuildServiceProvider();
+            var mediator = provider.GetRequiredService<IMediator>();
+
+            await mediator.Publish(request);
+
+            return await Unit.Task;
         }
 
 
