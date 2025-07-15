@@ -1,0 +1,19 @@
+jwt
+micro service
+rest - ef
+dapper
+clean architecture
+unit of work
+union
+ddd
+redis
+rabbitmq
+xunit - unit test
+tdd
+elastic search
+socket - signalIR
+docker
+postgre
+client side cashing - server side cash
+ci/cd
+linux

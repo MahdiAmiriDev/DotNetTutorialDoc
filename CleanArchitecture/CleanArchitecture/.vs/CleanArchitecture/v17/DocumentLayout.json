@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E465DF3F-2D85-4A0B-8117-4A5D099B0280}|CleanArch.Application\\CleanArch.Application.csproj|e:\\mygithub\\dotnettutorialdoc\\cleanarchitecture\\cleanarchitecture\\cleanarch.application\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465DF3F-2D85-4A0B-8117-4A5D099B0280}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465DF3F-2D85-4A0B-8117-4A5D099B0280}|CleanArch.Application\\CleanArch.Application.csproj|e:\\mygithub\\dotnettutorialdoc\\cleanarchitecture\\cleanarchitecture\\cleanarch.application\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465DF3F-2D85-4A0B-8117-4A5D099B0280}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|e:\\mygithub\\dotnettutorialdoc\\cleanarchitecture\\cleanarchitecture\\cleanarch.domain\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|e:\\mygithub\\dotnettutorialdoc\\cleanarchitecture\\cleanarchitecture\\cleanarch.domain\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|e:\\mygithub\\dotnettutorialdoc\\cleanarchitecture\\cleanarchitecture\\cleanarch.domain\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465DF3F-2D85-4A0B-8117-4A5D099B0280}|CleanArch.Application\\CleanArch.Application.csproj|e:\\mygithub\\dotnettutorialdoc\\cleanarchitecture\\cleanarchitecture\\cleanarch.application\\order\\dtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465DF3F-2D85-4A0B-8117-4A5D099B0280}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\order\\dtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|e:\\mygithub\\dotnettutorialdoc\\cleanarchitecture\\cleanarchitecture\\cleanarch.domain\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01563A19-1373-4D53-B52C-B350603319BE}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\Order\\IOrderService.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Order\\IOrderService.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\Order\\IOrderService.cs",
+              "RelativeToolTip": "CleanArch.Application\\Order\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:45:49.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Product\\Product.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Product\\Product.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Product\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:40:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddOrderDto.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\Order\\DTOs\\AddOrderDto.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Order\\DTOs\\AddOrderDto.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\Order\\DTOs\\AddOrderDto.cs",
+              "RelativeToolTip": "CleanArch.Application\\Order\\DTOs\\AddOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwBAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:26:08.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Order\\OrderService.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\Order\\OrderService.cs",
+              "RelativeToolTip": "CleanArch.Application\\Order\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:24:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Product\\IProductRepository.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Product\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:18:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Order\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Order\\IOrderRepository.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Order\\IOrderRepository.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Order\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:12:26.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Order\\Order.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Order\\Order.cs",
+              "ToolTip": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\Order\\Order.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Order\\Order.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:25:24.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
