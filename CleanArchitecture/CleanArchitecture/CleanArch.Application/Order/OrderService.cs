@@ -27,9 +27,9 @@ namespace CleanArch.Application.Order
             _orderRepository.SaveChanges();
         }
 
-        public OrderDto GetOrderById(int Id)
+        public OrderDto GetOrderById(int id)
         {
-            var order = _orderRepository.GetById(Id);
+            var order = _orderRepository.GetById(id);
             return new OrderDto()
             {
                 Count = order.Count,

@@ -8,7 +8,7 @@ public interface IOrderService
 
     void FinallyOrder(FinallyOrderDto finallyOrderDto);
 
-    OrderDto GetOrderById(int Id);
+    OrderDto GetOrderById(int id);
 
     List<OrderDto> GetOrders();
 
