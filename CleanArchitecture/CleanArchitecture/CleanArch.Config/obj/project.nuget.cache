@@ -1,17 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "mtGyFF8zU1k=",
-  "success": true,
-  "projectFilePath": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Config\\CleanArch.Config.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\m.amiri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
-  ],
+  "dgSpecHash": "JBKEbxTqOy8=",
+  "success": false,
+  "projectFilePath": "E:\\GitHub\\DotNetTotrial\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Config\\CleanArch.Config.csproj",
+  "expectedPackageFiles": [],
   "logs": [
     {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.55.202:8064/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'E:\\Projects\\Inst\\LocalRepository' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
     }
   ]
 }

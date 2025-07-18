@@ -27,43 +27,42 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\m.amiri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\CleanArch.Application.csproj",
+      "projectUniqueName": "E:\\GitHub\\DotNetTotrial\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\CleanArch.Application.csproj",
       "projectName": "CleanArch.Application",
-      "projectPath": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\CleanArch.Application.csproj",
-      "packagesPath": "C:\\Users\\m.amiri\\.nuget\\packages\\",
-      "outputPath": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\obj\\",
+      "projectPath": "E:\\GitHub\\DotNetTotrial\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\CleanArch.Application.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\DotNetTotrial\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
+        "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\m.amiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "D:\\localPakage": {},
-        "http://192.168.55.202:8064/v3/index.json": {},
+        "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\packages": {},
+        "E:\\Projects\\Inst\\LocalRepository": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-              "projectPath": "E:\\myGithub\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
+            "E:\\GitHub\\DotNetTotrial\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+              "projectPath": "E:\\GitHub\\DotNetTotrial\\DotNetTutorialDoc\\CleanArchitecture\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
             }
           }
         }
@@ -98,16 +97,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.55.202:8064/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }

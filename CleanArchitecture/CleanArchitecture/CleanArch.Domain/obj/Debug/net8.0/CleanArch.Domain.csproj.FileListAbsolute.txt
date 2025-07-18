@@ -1,0 +1,5 @@
+E:\GitHub\DotNetTotrial\DotNetTutorialDoc\CleanArchitecture\CleanArchitecture\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTotrial\DotNetTutorialDoc\CleanArchitecture\CleanArchitecture\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTotrial\DotNetTutorialDoc\CleanArchitecture\CleanArchitecture\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfo.cs
+E:\GitHub\DotNetTotrial\DotNetTutorialDoc\CleanArchitecture\CleanArchitecture\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTotrial\DotNetTutorialDoc\CleanArchitecture\CleanArchitecture\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.sourcelink.json
