@@ -1,0 +1,12 @@
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
