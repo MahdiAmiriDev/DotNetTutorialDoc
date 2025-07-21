@@ -101,3 +101,4 @@ E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator.Test.Unit\ob
 E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator.Test.Unit\obj\Debug\net8.0\Calculator.Test.Unit.pdb
 E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator.Test.Unit\obj\Debug\net8.0\Calculator.Test.Unit.genruntimeconfig.cache
 E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator.Test.Unit\obj\Debug\net8.0\ref\Calculator.Test.Unit.dll
+E:\myGithub\DotNetTutorialDoc\UnitTest\sample\Calculator\Calculator.Test.Unit\bin\Debug\net8.0\FluentAssertions.dll
