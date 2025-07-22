@@ -1,15 +1,46 @@
-﻿using FluentAssertions;
+﻿using Calculator.Test.Unit.ClassFixture;
+using FluentAssertions;
 
 namespace Calculator.Test.Unit
 {
-    public class ComputingTest
+    public class ComputingTest:IClassFixture<ComputingClassFixture>
     {
+        private readonly Computing _computing;
+
+
+        //این یک setup fixture
+        //است که قبل از هر چیزی اجرا می شود
+        //نام
+        //transient fresh fixture
+
+        //هوک های که می دهد اولی 
+        //ctro است که اجر می شود
+        //و دومی اگر 
+        //IDisposable
+        //را ارث ببریم بعد هر تست اجرا می شود در آخر
+        public ComputingTest(ComputingClassFixture c)
+        {
+            //_computing = new Computing();
+
+            _computing = c._computing;
+        }
+
         [Fact]
         public void OddOrEvent_Should_Return_Odd_When_Input_Is_OddValue()
         {
-            var computing = new Computing();
 
-            var result = computing.OddOrEvent(3);
+            //arrange
+
+            //inline 
+
+            //var computing = new Computing();
+
+            //act
+
+            var result = _computing.OddOrEvent(3);
+
+
+            //asserts
 
             //Assert.Equal("odd",result);
 
@@ -28,9 +59,8 @@ namespace Calculator.Test.Unit
         [InlineData(12)]
         public void EvenValue(int value)
         {
-            var computing = new Computing();
 
-            var result = computing.OddOrEvent(value);
+            var result = _computing.OddOrEvent(value);
 
             Assert.Equal("even", result);
         }
@@ -38,9 +68,8 @@ namespace Calculator.Test.Unit
         [Fact(DisplayName = "CalcAgeOne")]
         public void CalculateAge_Should_Return_Zero_When_BirthdayYear_IsLessThan_Zero()
         {
-            var computing = new Computing();
 
-            var result = computing.CalculateAge(-1, 2025);
+            var result = _computing.CalculateAge(-1, 2025);
 
             result.Should().Be(0);
         }
@@ -48,11 +77,10 @@ namespace Calculator.Test.Unit
         [Fact(DisplayName = "CalcAgeTwo")]
         public void CalculateAge_Should_Throw_Ex_When_BirthdayYear_Is_Zero()
         {
-            var computing = new Computing();
 
             var result = new Action(() =>
             {
-                computing.CalculateAge(0, 2025);
+                _computing.CalculateAge(0, 2025);
             });
 
             result.Should().Throw<ArgumentException>();
