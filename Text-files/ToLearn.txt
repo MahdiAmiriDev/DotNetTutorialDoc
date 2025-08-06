@@ -1,16 +1,16 @@
-jwt
+jwt √
 micro service
 rest - ef
 dapper
-clean architecture
+clean architecture √
 unit of work
 grpc
 union
-ddd
+Tdd
+ddd √
 redis
 rabbitmq
-xunit - unit test
-tdd
+xunit - unit test √
 elastic search
 socket - signalIR
 docker
