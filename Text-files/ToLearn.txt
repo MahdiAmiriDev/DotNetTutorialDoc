@@ -3,7 +3,7 @@ micro service
 rest - ef
 dapper
 clean architecture √
-unit of work
+unit of work √
 grpc √
 union
 Tdd
@@ -18,12 +18,12 @@ postgre
 client side cashing - server side cash
 ci/cd
 linux
-Channel 
+Channel √
 Timer
 IHostedService
 BackgroundService
 WorkerService
-Lazy<>
+Lazy<> √
 List.Aggregate
 Implicit Operator
 Class Indexer
