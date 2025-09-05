@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcDemo.Protos";
+
+
+service Customer {
+
+	rpc GetCustomerInformationInStringFormat (CustomerRequest) returns (CustomerResponse);
+
+	rpc GetCustomers (GetCusmersRequest) returns (stream CusomerResponse);
+
+}
+
+message CustomerRequest {
+	int32 age = 1;
+	string name = 2;
+	string family = 3;
+}
+
+message CustomerResponse {
+	string information = 1;
+}
+
+message GetCusmersRequest{
+
+}
+
+message CusomerResponse{
+	string name = 1;
+	string family = 2;
+}

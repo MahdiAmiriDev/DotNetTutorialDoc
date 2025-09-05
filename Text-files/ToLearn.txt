@@ -4,7 +4,7 @@ rest - ef
 dapper
 clean architecture √
 unit of work
-grpc
+grpc √
 union
 Tdd
 ddd √
