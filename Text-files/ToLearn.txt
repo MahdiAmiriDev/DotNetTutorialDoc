@@ -1,6 +1,7 @@
 jwt √
 micro service
-rest - ef
+rest 
+ef
 dapper
 clean architecture √
 unit of work √
@@ -19,11 +20,11 @@ client side cashing - server side cash
 ci/cd
 linux
 Channel √
-Timer
-IHostedService
-BackgroundService
-WorkerService
+Timer √
+IHostedService √
+BackgroundService √
+WorkerService √
 Lazy<> √
-List.Aggregate
-Implicit Operator
+List.Aggregate √
+Implicit Operator √
 Class Indexer
