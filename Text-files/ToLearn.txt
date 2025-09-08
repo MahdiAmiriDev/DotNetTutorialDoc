@@ -27,4 +27,4 @@ WorkerService √
 Lazy<> √
 List.Aggregate √
 Implicit Operator √
-Class Indexer
+Class Indexer √
