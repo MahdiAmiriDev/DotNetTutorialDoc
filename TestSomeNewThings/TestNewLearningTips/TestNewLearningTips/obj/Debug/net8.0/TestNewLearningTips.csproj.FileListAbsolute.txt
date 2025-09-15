@@ -1,0 +1,15 @@
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\bin\Debug\net8.0\TestNewLearningTips.exe
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\bin\Debug\net8.0\TestNewLearningTips.deps.json
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\bin\Debug\net8.0\TestNewLearningTips.runtimeconfig.json
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\bin\Debug\net8.0\TestNewLearningTips.dll
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\bin\Debug\net8.0\TestNewLearningTips.pdb
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.AssemblyInfo.cs
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.sourcelink.json
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.dll
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\refint\TestNewLearningTips.dll
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.pdb
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\TestNewLearningTips.genruntimeconfig.cache
+E:\GitHub\DotNetTutorialDoc\TestSomeNewThings\TestNewLearningTips\TestNewLearningTips\obj\Debug\net8.0\ref\TestNewLearningTips.dll
