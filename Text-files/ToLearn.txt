@@ -1,6 +1,6 @@
 jwt √
 micro service
-rest 
+rest √
 ef
 dapper
 clean architecture √
