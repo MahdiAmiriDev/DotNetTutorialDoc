@@ -1,0 +1,12 @@
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.deps.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.AssemblyInfo.cs
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.sourcelink.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\refint\IDP.Ioc.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\ref\IDP.Ioc.dll

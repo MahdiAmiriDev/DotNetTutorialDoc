@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entites\BaseEntites\" />
+    <Compile Remove="Entites\**" />
+    <EmbeddedResource Remove="Entites\**" />
+    <None Remove="Entites\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="IRepository\" />
+    <Folder Include="Entities\" />
     <Folder Include="IRepository\" />
   </ItemGroup>
 

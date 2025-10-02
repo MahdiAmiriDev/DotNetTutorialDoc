@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lGM2mryYRPCRTE/CD1gJ18JyRDqPZVgYHpyAwJSC8i0=",
+  "Source": "IDP.Api",
+  "BasePath": "_content/IDP.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

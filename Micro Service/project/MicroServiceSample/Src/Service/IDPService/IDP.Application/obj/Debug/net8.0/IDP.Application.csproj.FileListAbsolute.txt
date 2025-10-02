@@ -1,0 +1,13 @@
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\IDP.Application.deps.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\IDP.Application.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\IDP.Application.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.csproj.AssemblyReference.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.AssemblyInfo.cs
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.sourcelink.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\refint\IDP.Application.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\ref\IDP.Application.dll

@@ -1,0 +1,12 @@
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.deps.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfo.cs
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.sourcelink.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\refint\IDP.Domain.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\ref\IDP.Domain.dll
