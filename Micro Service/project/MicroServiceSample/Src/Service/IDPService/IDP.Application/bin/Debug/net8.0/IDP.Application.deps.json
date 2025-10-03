@@ -9,6 +9,7 @@
       "IDP.Application/1.0.0": {
         "dependencies": {
           "IDP.Domain": "1.0.0",
+          "IDP.Infra": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
         },
         "runtime": {
@@ -58,6 +59,14 @@
         "runtime": {
           "IDP.Domain.dll": {}
         }
+      },
+      "IDP.Infra/1.0.0": {
+        "dependencies": {
+          "IDP.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IDP.Infra.dll": {}
+        }
       }
     }
   },
@@ -96,6 +105,11 @@
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
     },
     "IDP.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDP.Infra/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

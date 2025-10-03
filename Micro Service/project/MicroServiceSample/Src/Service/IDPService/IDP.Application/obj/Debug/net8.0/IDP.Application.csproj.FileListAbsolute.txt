@@ -14,3 +14,5 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\IDP.Domain.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\IDP.Domain.pdb
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Appl.0B7DE00E.Up2Date
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\IDP.Infra.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\IDP.Infra.pdb

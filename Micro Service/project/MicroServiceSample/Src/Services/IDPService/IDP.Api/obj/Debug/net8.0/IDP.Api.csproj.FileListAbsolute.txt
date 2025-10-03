@@ -38,3 +38,9 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\ref\IDP.Api.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\IDP.Domain.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\IDP.Domain.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\IDP.Infra.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\IDP.Infra.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Asp.Versioning.Http.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll

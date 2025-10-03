@@ -13,5 +13,11 @@ namespace IDP.Domain.Entities
         public string? FullName { get; set; }
 
         public string? NationalCode { get; set; }
+
+        public string UserName { get; set; }
+        public string Password { get; set; }
+
+        //کلید رمزنگاری پسورد
+        public string Salt { get; set; }
     }
 }
