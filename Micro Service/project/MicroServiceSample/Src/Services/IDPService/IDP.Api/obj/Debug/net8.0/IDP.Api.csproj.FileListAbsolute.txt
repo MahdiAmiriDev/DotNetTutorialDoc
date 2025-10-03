@@ -36,3 +36,5 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\IDP.Api.pdb
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\IDP.Api.genruntimeconfig.cache
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\ref\IDP.Api.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\IDP.Domain.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\IDP.Domain.pdb

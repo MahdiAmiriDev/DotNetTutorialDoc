@@ -10,13 +10,15 @@ namespace IDP.Application.Command.User
 {
     public record UserCommand : IRequest<bool>
     {
-        public UserCommand(string name)
+        public UserCommand(string fullName)
         {
-            Name = name;
+            FullName = fullName;
         }
 
         [Required(ErrorMessage = "مقدار بده حتما")]
         [MinLength(4)]
-        public string Name { get; set; }
+        public string FullName { get; set; }
+
+        public string? NationalCode { get; set; }
     }
 }

@@ -10,3 +10,7 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Infra\obj\Debug\net8.0\refint\IDP.Infra.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Infra\obj\Debug\net8.0\IDP.Infra.pdb
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Infra\obj\Debug\net8.0\ref\IDP.Infra.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Infra\bin\Debug\net8.0\IDP.Domain.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Infra\bin\Debug\net8.0\IDP.Domain.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Infra\obj\Debug\net8.0\IDP.Infra.csproj.AssemblyReference.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Infra\obj\Debug\net8.0\IDP.Infra.csproj.Up2Date

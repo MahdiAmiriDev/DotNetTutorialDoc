@@ -16,4 +16,9 @@
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IDP.Domain\IDP.Domain.csproj" />
+    <ProjectReference Include="..\IDP.Infra\IDP.Infra.csproj" />
+  </ItemGroup>
+
 </Project>

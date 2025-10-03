@@ -59,6 +59,29 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "IDP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IDP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IDP.Domain.dll": {}
+        }
+      },
+      "IDP.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "IDP.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IDP.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IDP.Infra.dll": {}
+        }
       }
     }
   },
@@ -134,10 +157,22 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "IDP.Domain/1.0.0": {
+      "type": "project",
+      "path": "../IDP.Domain/IDP.Domain.csproj",
+      "msbuildProject": "../IDP.Domain/IDP.Domain.csproj"
+    },
+    "IDP.Infra/1.0.0": {
+      "type": "project",
+      "path": "../IDP.Infra/IDP.Infra.csproj",
+      "msbuildProject": "../IDP.Infra/IDP.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "IDP.Domain >= 1.0.0",
+      "IDP.Infra >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0"
     ]
   },
@@ -175,7 +210,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Domain\\IDP.Domain.csproj": {
+              "projectPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Domain\\IDP.Domain.csproj"
+            },
+            "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Infra\\IDP.Infra.csproj": {
+              "projectPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Infra\\IDP.Infra.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

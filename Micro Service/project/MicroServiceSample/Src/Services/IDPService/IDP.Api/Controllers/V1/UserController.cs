@@ -15,7 +15,11 @@ namespace IDP.Api.Controllers.V1
             _mediator = mediator;
         }
 
-
+        /// <summary>
+        /// درج کاربر
+        /// </summary>
+        /// <param name="userCommand"></param>
+        /// <returns></returns>
         [HttpPost("Insert")]
         public async Task<IActionResult> InsertAsync([FromBody] UserCommand userCommand)
         {
