@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDP.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ca73105df20ece2bbcad00bfe495e5ef395ff8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec9209c90207330990300df9b8332d00ec8c45a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDP.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDP.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
