@@ -10,7 +10,7 @@ using Microsoft.Extensions.Options;
 
 namespace Auth
 {
-    public class JwtHandler:IJwtHandler
+    public class JwtHandler : IJwtHandler
     {
         private readonly JwtSecurityTokenHandler _jwtSecurityTokenHandler = new JwtSecurityTokenHandler();
         private readonly JwtOptions _options;
@@ -36,7 +36,28 @@ namespace Auth
 
         public JsonWebToken Create(int userId)
         {
-            throw new NotImplementedException();
+            var nowUtc = DateTime.UtcNow;
+            var expire = nowUtc.AddMinutes(_options.ExpiryMinutes);
+            var centuryBegin = new DateTime(1970, 1, 1).ToUniversalTime();
+            var exp = (long)(new TimeSpan(expire.Ticks - centuryBegin.Ticks).TotalMicroseconds);
+            var now = (long)(new TimeSpan(nowUtc.Ticks - centuryBegin.Ticks).TotalMicroseconds);
+
+            var payload = new JwtPayload
+            {
+                { "sub", userId },
+                { "iss", _options.Issuer },
+                { "iat", now },
+                { "exp", exp },
+                { "unique_code", userId },
+            };
+
+            var jwt = new JwtSecurityToken(_jwtHeader, payload);
+            var token = _jwtSecurityTokenHandler.WriteToken(jwt);
+            return new JsonWebToken()
+            {
+                Token = token,
+                Expires = exp
+            };
         }
     }
 }

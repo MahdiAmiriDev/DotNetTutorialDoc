@@ -10,7 +10,7 @@ namespace Auth
     {
         public string Token { get; set; }
 
-        public long Exires { get; set; }
+        public long Expires { get; set; }
         public long RefreshToken { get; set; }
     }
 }
