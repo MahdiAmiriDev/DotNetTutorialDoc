@@ -10,3 +10,15 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\refint\IDP.Domain.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.pdb
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\ref\IDP.Domain.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.deps.json
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\bin\Debug\net8.0\IDP.Domain.pdb
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfoInputs.cache
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.AssemblyInfo.cs
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.csproj.CoreCompileInputs.cache
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.sourcelink.json
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\refint\IDP.Domain.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\IDP.Domain.pdb
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\obj\Debug\net8.0\ref\IDP.Domain.dll

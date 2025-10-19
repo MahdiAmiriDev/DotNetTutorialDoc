@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "MediatR/11.0.0": {
+      "MediatR/11.1.0": {
         "type": "package",
         "dependencies": {
           "MediatR.Contracts": "1.0.1"
@@ -86,17 +86,17 @@
     }
   },
   "libraries": {
-    "MediatR/11.0.0": {
-      "sha512": "8klzVGZQiA2oxZRzQFBZbdPD/IQUm9RYtfiyTDKhxDQ99Gi93+GXt1ZJjH2D7Lh7ZFHCv5XdkwbmfHEQBCatPg==",
+    "MediatR/11.1.0": {
+      "sha512": "YIbtrLOyeCuIv8vIuHL/mMdls5xmgS36pIOJDxKZuu55nxA2MI2Z+E/Uk0z+F/LE11AGmpjplOM0NZ91m5LQBA==",
       "type": "package",
-      "path": "mediatr/11.0.0",
+      "path": "mediatr/11.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "gradient_128x128.png",
         "lib/netstandard2.1/MediatR.dll",
         "lib/netstandard2.1/MediatR.xml",
-        "mediatr.11.0.0.nupkg.sha512",
+        "mediatr.11.1.0.nupkg.sha512",
         "mediatr.nuspec"
       ]
     },
@@ -177,45 +177,45 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages": {}
+    "C:\\Users\\m.amiri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Application\\IDP.Application.csproj",
+      "projectUniqueName": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Application\\IDP.Application.csproj",
       "projectName": "IDP.Application",
-      "projectPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Application\\IDP.Application.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Application\\obj\\",
+      "projectPath": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Application\\IDP.Application.csproj",
+      "packagesPath": "C:\\Users\\m.amiri\\.nuget\\packages\\",
+      "outputPath": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages"
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
+        "C:\\Users\\m.amiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\packages": {},
-        "P:\\Projects\\Inst\\LocalRepository": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\localPakage": {},
+        "http://192.168.55.202:8064/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Domain\\IDP.Domain.csproj": {
-              "projectPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Domain\\IDP.Domain.csproj"
+            "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Domain\\IDP.Domain.csproj": {
+              "projectPath": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Domain\\IDP.Domain.csproj"
             },
-            "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Infra\\IDP.Infra.csproj": {
-              "projectPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Infra\\IDP.Infra.csproj"
+            "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Infra\\IDP.Infra.csproj": {
+              "projectPath": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Service\\IDPService\\IDP.Infra\\IDP.Infra.csproj"
             }
           }
         }
@@ -256,8 +256,26 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.55.202:8064/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 depends on MediatR (>= 11.0.0 && < 12.0.0) but MediatR 11.0.0 was not found. An approximate best match of MediatR 11.1.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

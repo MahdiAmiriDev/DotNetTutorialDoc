@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IDP.Domain
-build_property.ProjectDir = E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\
+build_property.ProjectDir = E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

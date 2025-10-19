@@ -44,3 +44,6 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Asp.Versioning.Http.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\IDP.Api.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\refint\IDP.Api.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\IDP.Api.pdb

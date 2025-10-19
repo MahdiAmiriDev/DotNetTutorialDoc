@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj": {}
+    "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj": {
+    "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj",
+        "projectUniqueName": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\obj\\",
+        "projectPath": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\Auth.csproj",
+        "packagesPath": "C:\\Users\\m.amiri\\.nuget\\packages\\",
+        "outputPath": "E:\\myGithub\\DotNetTutorialDoc\\Micro Service\\project\\MicroServiceSample\\Src\\Common\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages"
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
+          "C:\\Users\\m.amiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\packages": {},
-          "P:\\Projects\\Inst\\LocalRepository": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\localPakage": {},
+          "http://192.168.55.202:8064/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

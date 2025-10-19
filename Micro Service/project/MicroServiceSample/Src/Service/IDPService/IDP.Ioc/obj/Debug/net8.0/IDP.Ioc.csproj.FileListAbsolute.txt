@@ -10,3 +10,15 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\refint\IDP.Ioc.dll
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.pdb
 E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\ref\IDP.Ioc.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.deps.json
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\bin\Debug\net8.0\IDP.Ioc.pdb
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.AssemblyInfoInputs.cache
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.AssemblyInfo.cs
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.csproj.CoreCompileInputs.cache
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.sourcelink.json
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\refint\IDP.Ioc.dll
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\IDP.Ioc.pdb
+E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Ioc\obj\Debug\net8.0\ref\IDP.Ioc.dll
