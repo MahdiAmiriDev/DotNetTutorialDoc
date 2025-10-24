@@ -34,3 +34,5 @@ E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Servi
 E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\refint\IDP.Application.dll
 E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\IDP.Application.pdb
 E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\obj\Debug\net8.0\ref\IDP.Application.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\Auth.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service\IDPService\IDP.Application\bin\Debug\net8.0\Auth.pdb

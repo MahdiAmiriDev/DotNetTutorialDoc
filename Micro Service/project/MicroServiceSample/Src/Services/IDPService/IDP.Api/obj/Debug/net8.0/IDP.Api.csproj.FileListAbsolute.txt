@@ -47,3 +47,13 @@ E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Service
 E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\IDP.Api.dll
 E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\refint\IDP.Api.dll
 E:\myGithub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\obj\Debug\net8.0\IDP.Api.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Auth.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Services\IDPService\IDP.Api\bin\Debug\net8.0\Auth.pdb

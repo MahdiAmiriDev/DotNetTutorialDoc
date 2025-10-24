@@ -1,4 +1,4 @@
-using System.Reflection;
+﻿using System.Reflection;
 using Asp.Versioning;
 using IDP.Application.Handler.Command.User;
 using MediatR;
@@ -29,6 +29,10 @@ builder.Services.AddApiVersioning(options =>
         options.GroupNameFormat = "'v'V";
         options.SubstituteApiVersionInUrl = true;
     });
+
+//استفاده از کلاس لایه auth
+//و تزریق به پروژه api
+Auth.Extensions.AddJwt(builder.Services, builder.Configuration);
 
 var app = builder.Build();
 
