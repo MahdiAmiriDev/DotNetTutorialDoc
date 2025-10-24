@@ -1,0 +1,13 @@
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\bin\Debug\net8.0\Auth.deps.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\bin\Debug\net8.0\Auth.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\bin\Debug\net8.0\Auth.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.csproj.AssemblyReference.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.AssemblyInfo.cs
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.sourcelink.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\refint\Auth.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\Auth.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\Src\Common\Auth\obj\Debug\net8.0\ref\Auth.dll
