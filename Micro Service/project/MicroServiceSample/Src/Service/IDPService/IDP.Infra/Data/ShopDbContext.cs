@@ -11,18 +11,23 @@ namespace IDP.Infra.Data
 {
     public class ShopDbContext:DbContext
     {
-        private readonly IConfiguration _configuration;
+        //private readonly IConfiguration _configuration;
 
-        public ShopDbContext(IConfiguration configuration)
+        public ShopDbContext()
         {
-            _configuration = configuration;
+            //_configuration = configuration;
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(_configuration.GetConnectionString("CommandDBConnection"));
+            optionsBuilder.UseSqlServer("Server=.;Database=MicroServiceTest;TrustServerCertificate=True;Trusted_Connection=True;");
         }
 
         public DbSet<User> User { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

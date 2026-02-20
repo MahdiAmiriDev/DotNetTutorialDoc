@@ -8,17 +8,26 @@
 
   <ItemGroup>
     <Folder Include="DTO\" />
-    <Folder Include="Helper\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="DotNetCore.CAP" Version="8.4.1" />
+    <PackageReference Include="MassTransit.Abstractions" Version="8.5.6" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\EventMessages\EventMessages.csproj" />
     <ProjectReference Include="..\..\..\Common\Auth\Auth.csproj" />
     <ProjectReference Include="..\IDP.Domain\IDP.Domain.csproj" />
     <ProjectReference Include="..\IDP.Infra\IDP.Infra.csproj" />
+    <PackageReference Include="Google.Protobuf" Version="3.30.2" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.70.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.71.0" />
   </ItemGroup>
+
+	<ItemGroup>
+        <Protobuf Include="Protos/user.proto" GrpcServices="Server" />
+	</ItemGroup>
 
 </Project>

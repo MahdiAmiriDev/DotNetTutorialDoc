@@ -11,8 +11,19 @@
     <PackageReference Include="Asp.Versioning.Http" Version="8.1.0" />
     <PackageReference Include="Asp.Versioning.Mvc" Version="8.1.0" />
     <PackageReference Include="Asp.Versioning.Mvc.ApiExplorer" Version="8.1.0" />
+    <PackageReference Include="DotNetCore.CAP" Version="8.4.1" />
+    <PackageReference Include="DotNetCore.CAP.Dashboard" Version="8.4.1" />
+    <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="8.4.1" />
+    <PackageReference Include="DotNetCore.CAP.SqlServer" Version="8.4.1" />
+    <PackageReference Include="MassTransit" Version="8.5.6" />
+    <PackageReference Include="MassTransit.EntityFrameworkCore" Version="8.5.6" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.6" />
+    <PackageReference Include="MassTransit.SqlTransport.SqlServer" Version="8.5.6" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.30.2" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.70.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.71.0" />
   </ItemGroup>
 
   <ItemGroup>

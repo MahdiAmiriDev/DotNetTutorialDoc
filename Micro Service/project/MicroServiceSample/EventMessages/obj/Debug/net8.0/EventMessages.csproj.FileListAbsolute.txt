@@ -1,0 +1,12 @@
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\bin\Debug\net8.0\EventMessages.deps.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\bin\Debug\net8.0\EventMessages.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\bin\Debug\net8.0\EventMessages.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\EventMessages.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\EventMessages.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\EventMessages.AssemblyInfo.cs
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\EventMessages.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\EventMessages.sourcelink.json
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\EventMessages.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\refint\EventMessages.dll
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\EventMessages.pdb
+E:\GitHub\DotNetTutorialDoc\Micro Service\project\MicroServiceSample\EventMessages\obj\Debug\net8.0\ref\EventMessages.dll
