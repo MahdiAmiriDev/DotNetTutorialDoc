@@ -1,0 +1,15 @@
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\bin\Debug\net8.0\DesingPatternSamples.exe
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\bin\Debug\net8.0\DesingPatternSamples.deps.json
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\bin\Debug\net8.0\DesingPatternSamples.runtimeconfig.json
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\bin\Debug\net8.0\DesingPatternSamples.dll
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\bin\Debug\net8.0\DesingPatternSamples.pdb
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.AssemblyInfoInputs.cache
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.AssemblyInfo.cs
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.csproj.CoreCompileInputs.cache
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.sourcelink.json
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.dll
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\refint\DesingPatternSamples.dll
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.pdb
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\DesingPatternSamples.genruntimeconfig.cache
+E:\GitHub\DotNetTutorialDoc\DesignPattern\Code with saleh\DesingPatternSamples\DesingPatternSamples\obj\Debug\net8.0\ref\DesingPatternSamples.dll
