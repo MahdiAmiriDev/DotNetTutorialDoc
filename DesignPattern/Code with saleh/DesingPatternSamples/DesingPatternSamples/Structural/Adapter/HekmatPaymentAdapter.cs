@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DesingPatternSamples.Structural.Adapter
+{
+    internal class HekmatPaymentAdapter : PaymentMethod
+    {
+        private readonly HekmatPayment _hekmatPayment;
+
+        public HekmatPaymentAdapter(HekmatPayment hekmatPayment)
+        {
+            _hekmatPayment = hekmatPayment;
+        }
+
+        public void ProcessPayment(int amount)
+        {
+            //do pre process...
+
+            _hekmatPayment.DoHybridPayment(amount.ToString());
+        }
+    }
+}

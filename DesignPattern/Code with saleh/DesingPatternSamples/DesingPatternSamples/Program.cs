@@ -109,14 +109,37 @@
 
 //------------------------------------------- Singleton
 
-using DesingPatternSamples.Creational.Singleton;
+//using DesingPatternSamples.Creational.Singleton;
 
-Singleton singleton = Singleton.GetInstance();
+//Singleton singleton = Singleton.GetInstance();
 
-singleton.Print("hello");
+//singleton.Print("hello");
 
-var singleton2 = Singleton.GetInstance();
+//var singleton2 = Singleton.GetInstance();
 
-singleton2.Print("every body");
+//singleton2.Print("every body");
+
+//Console.ReadKey();
+
+
+
+
+
+
+//------------------------------------------- Structural ------------------------------------------
+
+
+
+
+//------------------------------------------- Adapter
+
+
+using DesingPatternSamples.Structural.Adapter;
+
+HekmatPaymentAdapter hekmatPaymentAdapter = new(new HekmatPayment());
+
+PaymentProcessor paymentProcessor = new(hekmatPaymentAdapter);
+
+paymentProcessor.Process(2343);
 
 Console.ReadKey();
