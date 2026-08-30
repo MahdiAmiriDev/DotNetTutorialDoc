@@ -1,41 +1,54 @@
 --DNS
-https://www.youtube.com/watch?v=bVHEG9vFL2o&list=PLwQhn2KOvsfXau3p0-bqivjt2bFxMQ8iu
+https://www.youtube.com/watch?v=bVHEG9vFL2o&list=PLwQhn2KOvsfXau3p0-bqivjt2bFxMQ8iu -> Done
+
 
 --Interview Trip
 https://www.youtube.com/watch?v=QwkT-qtJggQ&list=PLv53Yf3eD75iYF8Iju8UikeArdJUn2FTZ
 
+
 --10 year ex question
 https://www.youtube.com/watch?v=BKynEBPqiIM&list=PLQMqUlV2_B8ngL_PaT9UFsd0-PvnrpZGC
+
 
 --حرفه ای کد بزن رضایی قانع
 https://www.youtube.com/watch?v=R2sqcMHxNFI
 
+
 -- yarp - auth رضایی قانع
 https://www.youtube.com/watch?v=noCJjDKpv8w
+
 
 -- sso رضایی قانع
 https://www.youtube.com/watch?v=r5syjiL3_9E
 
+
 -- security
 https://www.youtube.com/watch?v=fcydrmJ_gmk&list=PL9PDAcAbKqk7hQiKPDOUyxK8X47bp45qW
+
 
 -- ICode Next Collections
 https://www.youtube.com/watch?v=zbrj1yCLqB8&list=PLN5rV4x2x5XcZofQNk8kJFOjxlNaWIUIq
 
+
 -- ICode Next EF
 https://www.youtube.com/watch?v=AERh1TBhwmI&list=PLN5rV4x2x5Xfob-AfkhkixASFveutHuWm&index=2
+
 
 -- ICode Next Concurrency and async
 https://www.youtube.com/watch?v=vIPW_JwV_jQ&list=PLN5rV4x2x5XeyHxgGOGSst1aEOygBrfjz
 
+
 -- ICode Next Expression Tree
 https://www.youtube.com/watch?v=iraD98-Z1UM&list=PLN5rV4x2x5Xc_A6UwalFsX6XkMkX7fcAE
+
 
 -- ICode Next Code Jungle
 https://www.youtube.com/watch?v=8Fd_s4O3Wtw&list=PLN5rV4x2x5XfXZaJdh0PO-yBDwyu464lh
 
+
 -- C# In Nutshell
 https://www.youtube.com/watch?v=t1u6trdi9vY&list=PLN5rV4x2x5XfGfkDsN0xF50bYfaXj5b_H
+
 
 
 -- C# In Nutshell part 2
